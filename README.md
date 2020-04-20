@@ -4,3 +4,4 @@ We had to create a game using HTML/CSS/JS
 
 *CONTRIBUTORS*
 Ambrose Ben Tiba
+Catherine Ye
