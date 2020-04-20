@@ -1,4 +1,3 @@
-# js-week-20-04
 js week 20/04/2020 at HETIC 
 
 We had to create a game using HTML/CSS/JS
